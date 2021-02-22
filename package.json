@@ -1,6 +1,6 @@
 {
   "name": "@tmware/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "TMWare Prettier config",
   "main": "index.json",
   "repository": "git@github.com:tmware/prettier-config.git",
